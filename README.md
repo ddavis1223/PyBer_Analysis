@@ -12,7 +12,7 @@ The urban cities have 38% more rides than the suburban communities and 20% more 
 The rural cities have the most reduced charges from the surburban and urban cities but has the highest average fare per ride.
 Additionally, the provincial urban areas has a higher estimation of normal admission per driver than the rural and metropolitan urban communities.
 
-![Total Fares](Resources/Total Fares.png)
+![Total_Fares](Resources/Total Fares.png)
 
 ### Results of the Multiple-line Graph
 The multiple-line graph shows that the urban city type has a consistent increase initially yet takes a sharp decrease in March prior to having a consistent speed in April.
