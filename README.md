@@ -13,7 +13,7 @@ The rural cities have the most reduced charges from the surburban and urban citi
 Additionally, the provincial urban areas has a higher estimation of normal admission per driver than the rural and metropolitan urban communities.
 
 ![Total_Fares](Resources/Total Fares.png)
-e
+
 
 ### Results of the Multiple-line Graph
 The multiple-line graph shows that the urban city type has a consistent increase initially yet takes a sharp decrease in March prior to having a consistent speed in April.
